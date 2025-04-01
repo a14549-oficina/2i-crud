@@ -8,6 +8,7 @@ Este projeto tem como objetivo fornecer uma estrutura para o gerenciamento de pr
 
 Este projeto fornece uma estrutura simples para o gerenciamento de produtos em um banco de dados relacional. Ele pode ser usado como base para sistemas de controle de inventário, catálogos de produtos, ou qualquer aplicação que precise gerenciar dados de produtos em uma base de dados.
 
+
 ## 🎯 Objetivo
 
 O objetivo principal deste projeto é criar uma estrutura de banco de dados para armazenar informações de produtos e permitir operações como:
